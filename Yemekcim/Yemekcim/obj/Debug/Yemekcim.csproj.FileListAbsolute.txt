@@ -1,0 +1,46 @@
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\bin\Debug\Yemekcim.exe.config
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\bin\Debug\Yemekcim.exe
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\bin\Debug\Yemekcim.pdb
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormConfirmOrder.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormForgetPassword.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCorp.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmr.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmrAddBalance.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRegister.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRsnt.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormUser.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmrLogin.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCorpLogin.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRsntLogin.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormNewPassword.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.Properties.Resources.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.exe
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.pdb
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormOrder.resources
+C:\Users\Samet\source\repos\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormOrder2.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\bin\Debug\Yemekcim.exe.config
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\bin\Debug\Yemekcim.exe
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\bin\Debug\Yemekcim.pdb
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.AssemblyReference.cache
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.SuggestedBindingRedirects.cache
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormConfirmOrder.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormForgetPassword.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCorp.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmr.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmrAddBalance.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormOrder.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormOrder2.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRegister.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRsnt.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormUser.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCstmrLogin.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormCorpLogin.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormRsntLogin.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.FormNewPassword.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.Properties.Resources.resources
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.GenerateResource.cache
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.csproj.CoreCompileInputs.cache
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.exe
+D:\dosyalar\Yeni klasör\Yemekcim\Yemekcim\obj\Debug\Yemekcim.pdb
